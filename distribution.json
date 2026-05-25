@@ -3469,6 +3469,16 @@
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/journeymap/icon/theme/victorian_/victorian_.theme2.json",
             "path": "journeymap/icon/theme/victorian_/victorian_.theme2.json"
           }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/options.txt",
+            "path": "options.txt"
+          }
         }
       ]
     }
