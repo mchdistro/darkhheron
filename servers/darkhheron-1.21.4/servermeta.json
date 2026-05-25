@@ -5,7 +5,7 @@
     "name": "다케론",
     "description": "Minecraft 1.21.4 (Fabric v0.18.5)",
     "icon": "https://github.com/mchdistro/darkhheron/raw/main/server-icon.png",
-    "address": "localhost:25565",
+    "address": "jdani.kro.kr",
     "discord": {
       "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
       "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",

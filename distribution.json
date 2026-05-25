@@ -13,7 +13,7 @@
       "description": "Minecraft 1.21.4 (Fabric v0.18.5)",
       "icon": "https://github.com/mchdistro/darkhheron/raw/main/server-icon.png",
       "version": "1.0.0",
-      "address": "localhost:25565",
+      "address": "jdani.kro.kr",
       "minecraftVersion": "1.21.4",
       "discord": {
         "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -3500,6 +3500,17 @@
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/resourcepacks/generated.zip",
             "MD5": "45abc21fa7bff2b4c566ab7a398b3ace",
             "path": "resourcepacks/generated.zip"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 70831,
+            "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/servers.dat",
+            "MD5": "b159fe6aca635ccc296f4747f8a708f1",
+            "path": "servers.dat"
           }
         }
       ]
