@@ -3475,9 +3475,31 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 196,
+            "size": 313,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "build.zip",
+          "name": "build.zip",
+          "type": "File",
+          "artifact": {
+            "size": 4380744,
+            "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/resourcepacks/build.zip",
+            "MD5": "2ff31be3068104774211735526f2a095",
+            "path": "resourcepacks/build.zip"
+          }
+        },
+        {
+          "id": "generated.zip",
+          "name": "generated.zip",
+          "type": "File",
+          "artifact": {
+            "size": 914913,
+            "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/darkhheron-1.21.4/files/resourcepacks/generated.zip",
+            "MD5": "45abc21fa7bff2b4c566ab7a398b3ace",
+            "path": "resourcepacks/generated.zip"
           }
         }
       ]
