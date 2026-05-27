@@ -215,7 +215,7 @@
           "name": "journeymap.core.config",
           "type": "File",
           "artifact": {
-            "size": 2691,
+            "size": 2778,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.core.config",
             "path": "journeymap/config/6.0/journeymap.core.config"
           }
@@ -225,7 +225,7 @@
           "name": "journeymap.fullmap.config",
           "type": "File",
           "artifact": {
-            "size": 1318,
+            "size": 1362,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.fullmap.config",
             "path": "journeymap/config/6.0/journeymap.fullmap.config"
           }
@@ -235,7 +235,7 @@
           "name": "journeymap.minimap.config",
           "type": "File",
           "artifact": {
-            "size": 2312,
+            "size": 2388,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.minimap.config",
             "path": "journeymap/config/6.0/journeymap.minimap.config"
           }
@@ -245,7 +245,7 @@
           "name": "journeymap.minimap2.config",
           "type": "File",
           "artifact": {
-            "size": 2317,
+            "size": 2393,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.minimap2.config",
             "path": "journeymap/config/6.0/journeymap.minimap2.config"
           }
@@ -255,7 +255,7 @@
           "name": "journeymap.rendering.config",
           "type": "File",
           "artifact": {
-            "size": 671,
+            "size": 687,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.rendering.config",
             "path": "journeymap/config/6.0/journeymap.rendering.config"
           }
@@ -265,7 +265,7 @@
           "name": "journeymap.topo.config",
           "type": "File",
           "artifact": {
-            "size": 971,
+            "size": 978,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.topo.config",
             "path": "journeymap/config/6.0/journeymap.topo.config"
           }
@@ -275,7 +275,7 @@
           "name": "journeymap.waypoint.config",
           "type": "File",
           "artifact": {
-            "size": 1237,
+            "size": 1275,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.waypoint.config",
             "path": "journeymap/config/6.0/journeymap.waypoint.config"
           }
@@ -285,7 +285,7 @@
           "name": "journeymap.webmap.config",
           "type": "File",
           "artifact": {
-            "size": 162,
+            "size": 166,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/config/6.0/journeymap.webmap.config",
             "path": "journeymap/config/6.0/journeymap.webmap.config"
           }
@@ -295,7 +295,7 @@
           "name": "default.theme.config",
           "type": "File",
           "artifact": {
-            "size": 69,
+            "size": 73,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/default.theme.config",
             "path": "journeymap/icon/theme/default.theme.config"
           }
@@ -445,7 +445,7 @@
           "name": "DesertTemple.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8925,
+            "size": 9351,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/DesertTemple.theme2.json",
             "path": "journeymap/icon/theme/flat/DesertTemple.theme2.json"
           }
@@ -455,7 +455,7 @@
           "name": "EndCity.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8920,
+            "size": 9346,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/EndCity.theme2.json",
             "path": "journeymap/icon/theme/flat/EndCity.theme2.json"
           }
@@ -465,7 +465,7 @@
           "name": "ForestMansion.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8926,
+            "size": 9352,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/ForestMansion.theme2.json",
             "path": "journeymap/icon/theme/flat/ForestMansion.theme2.json"
           }
@@ -1065,7 +1065,7 @@
           "name": "NetherFortress.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8927,
+            "size": 9353,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/NetherFortress.theme2.json",
             "path": "journeymap/icon/theme/flat/NetherFortress.theme2.json"
           }
@@ -1075,7 +1075,7 @@
           "name": "OceanMonument.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8926,
+            "size": 9352,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/OceanMonument.theme2.json",
             "path": "journeymap/icon/theme/flat/OceanMonument.theme2.json"
           }
@@ -1085,7 +1085,7 @@
           "name": "Purist.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8909,
+            "size": 9335,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/Purist.theme2.json",
             "path": "journeymap/icon/theme/flat/Purist.theme2.json"
           }
@@ -1095,7 +1095,7 @@
           "name": "Stronghold.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8923,
+            "size": 9349,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/flat/Stronghold.theme2.json",
             "path": "journeymap/icon/theme/flat/Stronghold.theme2.json"
           }
@@ -1655,7 +1655,7 @@
           "name": "vault.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 6007,
+            "size": 6307,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/vault/vault.theme2.json",
             "path": "journeymap/icon/theme/vault/vault.theme2.json"
           }
@@ -2225,7 +2225,7 @@
           "name": "vault.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 6203,
+            "size": 6509,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/vault/_flat/vault.theme2.json",
             "path": "journeymap/icon/theme/vault/_flat/vault.theme2.json"
           }
@@ -2795,7 +2795,7 @@
           "name": "vault.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 6203,
+            "size": 6509,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/vault_flat/vault.theme2.json",
             "path": "journeymap/icon/theme/vault_flat/vault.theme2.json"
           }
@@ -3465,7 +3465,7 @@
           "name": "victorian_.theme2.json",
           "type": "File",
           "artifact": {
-            "size": 8728,
+            "size": 9149,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/journeymap/icon/theme/victorian_/victorian_.theme2.json",
             "path": "journeymap/icon/theme/victorian_/victorian_.theme2.json"
           }
@@ -3485,9 +3485,9 @@
           "name": "build.zip",
           "type": "File",
           "artifact": {
-            "size": 4511683,
+            "size": 4402177,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260526-1.21.4/files/resourcepacks/build.zip",
-            "MD5": "255cf8bb171c2a144b42d30d75483355",
+            "MD5": "71f1b87e2a36a022c345c6943510e648",
             "path": "resourcepacks/build.zip"
           }
         },
