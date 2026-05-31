@@ -211,16 +211,6 @@
           }
         },
         {
-          "id": "de.maxhenkel:voicechat:1.21.4-2.6.17@jar",
-          "name": "Simple Voice Chat",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 5360544,
-            "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/fabricmods/required/voicechat-fabric-1.21.4-2.6.17.jar",
-            "MD5": "169c847ed23fd2e7f7d57e31aaba963b"
-          }
-        },
-        {
           "id": "voicechat-client.properties",
           "name": "voicechat-client.properties",
           "type": "File",
@@ -3505,9 +3495,9 @@
           "name": "build.zip",
           "type": "File",
           "artifact": {
-            "size": 4402177,
+            "size": 4390014,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/build.zip",
-            "MD5": "71f1b87e2a36a022c345c6943510e648",
+            "MD5": "417774ea78cd6f2910109dd01a10da22",
             "path": "resourcepacks/build.zip"
           }
         },
@@ -3516,9 +3506,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 914913,
+            "size": 914084,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "45abc21fa7bff2b4c566ab7a398b3ace",
+            "MD5": "6a079ca5de41adf26ed987cf5c64fdf3",
             "path": "resourcepacks/generated.zip"
           }
         },
