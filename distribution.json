@@ -3506,9 +3506,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 914084,
+            "size": 920094,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "6a079ca5de41adf26ed987cf5c64fdf3",
+            "MD5": "1237556c695fdc773e38c8b78bed2300",
             "path": "resourcepacks/generated.zip"
           }
         },
