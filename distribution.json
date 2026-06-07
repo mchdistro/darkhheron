@@ -3497,7 +3497,7 @@
           "artifact": {
             "size": 4390014,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/build.zip",
-            "MD5": "8fa203a455e347d900a3ae95ad1da78a",
+            "MD5": "6f2711ca446516289fa3ceb02e4299be",
             "path": "resourcepacks/build.zip"
           }
         },
@@ -3506,9 +3506,9 @@
           "name": "generated.zip",
           "type": "File",
           "artifact": {
-            "size": 920094,
+            "size": 983252,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/generated.zip",
-            "MD5": "1237556c695fdc773e38c8b78bed2300",
+            "MD5": "50587faa33b5dfd0e66f9da1ac43760a",
             "path": "resourcepacks/generated.zip"
           }
         },
