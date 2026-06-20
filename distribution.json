@@ -3495,9 +3495,9 @@
           "name": "build.zip",
           "type": "File",
           "artifact": {
-            "size": 4390014,
+            "size": 4402480,
             "url": "https://github.com/mchdistro/darkhheron/raw/main/servers/260528-1.21.4/files/resourcepacks/build.zip",
-            "MD5": "6f2711ca446516289fa3ceb02e4299be",
+            "MD5": "a0518504eb827b307c575a54091405b2",
             "path": "resourcepacks/build.zip"
           }
         },
